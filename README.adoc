@@ -1,0 +1,13 @@
+= Docker MOE
+:toc:
+:gh-moe: https://github.com/google/MOE
+:docker-repo: mkobit/docker-moe
+:shields-docker-pulls: https://img.shields.io/docker/pulls/mkobit/docker-moe.svg
+:shields-docker-stars: https://img.shields.io/docker/stars/mkobit/docker-moe.svg
+:shields-docker-build: https://img.shields.io/docker/automated/mkobit/docker-moe.svg
+:shields-docker-build-status: https://img.shields.io/docker/build/mkobit/docker-moe.svg
+
+image:{shields-docker-stars}[title="Docker repository stars", alt="Stars on Docker Hub"]
+image:{shields-docker-build}[title="Docker repository build", alt="Stars on Docker Hub"]
+image:{shields-docker-build-status}[title="Docker repository build status", alt="Stars on Docker Hub"]
+image:{shields-docker-pulls}[title="Docker image pulls", alt="Docker image pulls"]
